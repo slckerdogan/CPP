@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645827573 source:c:\users\lenovo\desktop\c++ derslerİ\12-)random(rastgele) sayı Üretmek\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

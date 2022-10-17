@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1645828942 source:c:\users\lenovo\desktop\c++ derslerÝ\13-)karekök alma ve ascii uygulama\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
